@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.10a2aefb.css",
-    "main.js": "/static/js/main.bf2afccf.js",
-    "index.html": "/index.html",
-    "main.10a2aefb.css.map": "/static/css/main.10a2aefb.css.map",
-    "main.bf2afccf.js.map": "/static/js/main.bf2afccf.js.map"
+    "main.css": "/Travel-list-react/static/css/main.10a2aefb.css",
+    "main.js": "/Travel-list-react/static/js/main.bf2afccf.js",
+    "index.html": "/Travel-list-react/index.html",
+    "main.10a2aefb.css.map": "/Travel-list-react/static/css/main.10a2aefb.css.map",
+    "main.bf2afccf.js.map": "/Travel-list-react/static/js/main.bf2afccf.js.map"
   },
   "entrypoints": [
     "static/css/main.10a2aefb.css",
